@@ -1,0 +1,7 @@
+com\ph\pojo\Product_.class
+META-INF\spring.components
+com\ph\pojo\User_.class
+com\ph\pojo\Comment_.class
+com\ph\pojo\MxhttOrder_.class
+com\ph\pojo\OrderDetail_.class
+com\ph\pojo\Post_.class
